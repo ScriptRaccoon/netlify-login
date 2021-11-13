@@ -1,0 +1,11 @@
+{
+  "name": "netlify-login",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
