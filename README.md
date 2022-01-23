@@ -6,7 +6,7 @@ On the frontend we have a password input. This password is sent to a serverless 
 
 Usage: Install the Netlify CLI globally:
 
-`npm install -g netlify-ci`
+`npm install -g netlify-cli`
 
 The file `netlify.toml` tells Netlify where to find the source files and the functions.
 
